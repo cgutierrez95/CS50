@@ -1,0 +1,1 @@
+select a.name from songs a where a.danceability > .75 and a.energy > .75 and a.valence >.75;

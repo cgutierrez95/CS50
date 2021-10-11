@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+}
+
+#title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+}
+
+a:hover{
+    color:red;
+}
+
+.table{
+    border:5px;
+}
